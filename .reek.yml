@@ -1,0 +1,5 @@
+detectors:
+  LongParameterList:
+    enabled: false
+  UnusedParameters:
+    enabled: false
