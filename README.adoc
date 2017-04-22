@@ -1,0 +1,58 @@
+:toc: macro
+:toclevels: 5
+:figure-caption!:
+
+= Test
+
+This project’s sole purpose is to provide a remote Git repository that can be used for testing gems
+like the following:
+
+* link:https://alchemists.io/projects/milestoner[Milestoner]
+* link:https://alchemists.io/projects/gemsmith[Gemsmith]
+
+Other gems, Ruby projects, etc. might leverage this project in the future too. Any activity on this
+project will mostly be the result of automated testing. In other words, not much to see here.
+
+toc::[]
+
+== Features
+
+* Provides a remote Git repository that can be used in testing other gems/projects.
+
+== Requirements
+
+. https://www.ruby-lang.org[Ruby]
+
+== Setup
+
+None.
+
+== Usage
+
+None.
+
+== Tests
+
+To test, run:
+
+[source,bash]
+----
+bin/rake
+----
+
+== link:https://alchemists.io/policies/license[License]
+
+== link:https://alchemists.io/policies/security[Security]
+
+== link:https://alchemists.io/policies/code_of_conduct[Code of Conduct]
+
+== link:https://alchemists.io/policies/contributions[Contributions]
+
+== link:https://alchemists.io/projects/test/versions[Versions]
+
+== link:https://alchemists.io/community[Community]
+
+== Credits
+
+* Built with link:https://alchemists.io/projects/gemsmith[Gemsmith].
+* Engineered by link:https://alchemists.io/team/brooke_kuhlmann[Brooke Kuhlmann].
