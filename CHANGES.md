@@ -1,3 +1,17 @@
+# v0.3.0 (2018-01-01)
+
+- Added Bundler Audit gem.
+- Updated to Apache 2.0 license.
+- Updated to Git Cop 1.7.0.
+- Updated to Rake 12.3.0.
+- Updated to Rubocop 0.50.0.
+- Updated to Rubocop 0.51.0.
+- Updated to Rubocop 0.52.0.
+- Updated to Ruby 2.4.2.
+- Updated to Ruby 2.4.3.
+- Updated to Ruby 2.5.0.
+- Refactored code to use Ruby 2.5.0 `Array#append` syntax.
+
 # v0.2.0 (2017-08-27)
 
 - Added Circle CI support.
