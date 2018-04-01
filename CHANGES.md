@@ -1,3 +1,17 @@
+# v0.4.0 (2018-04-01)
+
+- Fixed gemspec issues with missing gem signing key/certificate.
+- Added gemspec metadata for source, changes, and issue tracker URLs.
+- Updated README license information.
+- Updated gem dependencies.
+- Updated to Circle CI 2.0.0 configuration.
+- Updated to Gemsmith 12.0.0.
+- Updated to Git Cop 2.2.0.
+- Updated to Rubocop 0.53.0.
+- Updated to Ruby 2.5.1.
+- Removed Circle CI Bundler cache.
+- Refactored temp dir shared context as a pathname.
+
 # v0.3.0 (2018-01-01)
 
 - Added Bundler Audit gem.
