@@ -1,4 +1,4 @@
-# v0.4.0 (2018-04-01)
+# 0.4.0 (2018-04-01)
 
 - Fixed gemspec issues with missing gem signing key/certificate.
 - Added gemspec metadata for source, changes, and issue tracker URLs.
@@ -12,7 +12,7 @@
 - Removed Circle CI Bundler cache.
 - Refactored temp dir shared context as a pathname.
 
-# v0.3.0 (2018-01-01)
+# 0.3.0 (2018-01-01)
 
 - Added Bundler Audit gem.
 - Updated to Apache 2.0 license.
@@ -26,7 +26,7 @@
 - Updated to Ruby 2.5.0.
 - Refactored code to use Ruby 2.5.0 `Array#append` syntax.
 
-# v0.2.0 (2017-08-27)
+# 0.2.0 (2017-08-27)
 
 - Added Circle CI support.
 - Added Git Cop code quality task.
@@ -40,6 +40,6 @@
 - Removed Pry State gem.
 - Removed Travis CI support.
 
-# v0.1.0 (2017-04-22)
+# 0.1.0 (2017-04-22)
 
 - Initial version.
