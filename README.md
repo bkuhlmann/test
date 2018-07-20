@@ -33,7 +33,7 @@ this project will mostly be the result of automated testing. In other words, not
 
 ## Requirements
 
-0. [Ruby 2.5.x](https://www.ruby-lang.org)
+1. [Ruby 2.5.x](https://www.ruby-lang.org)
 
 ## Setup
 
