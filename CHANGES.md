@@ -1,3 +1,12 @@
+# 0.6.1 (2019-05-01)
+
+- Added Rubocop Performance gem.
+- Added Ruby warnings to RSpec helper.
+- Updated RSpec helper to verify constant names.
+- Updated to Code Quality 4.0.0.
+- Updated to Rubocop 0.67.0.
+- Updated to Ruby 2.6.3.
+
 # 0.6.0 (2019-04-01)
 
 - Fixed Rubocop Style/MethodCallWithArgsParentheses issues.
