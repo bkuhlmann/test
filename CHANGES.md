@@ -1,3 +1,29 @@
+# 0.6.4 (2020-02-01)
+
+- Fixed SimpleCov setup in RSpec spec helper.
+- Added Rubocop Rake support.
+- Added gem console.
+- Updated Pry development dependencies.
+- Updated README project requirements
+- Updated to Gemsmith 14.0.0
+- Updated to Git Cop 4.0.0
+- Updated to RSpec 3.9.0.
+- Updated to Rake 13.0.0.
+- Updated to Reek 5.6.0
+- Updated to Rubocop 0.75.0.
+- Updated to Rubocop 0.76.0.
+- Updated to Rubocop 0.77.0.
+- Updated to Rubocop 0.78.0.
+- Updated to Rubocop 0.79.0
+- Updated to Rubocop Performance 1.5.0.
+- Updated to Rubocop RSpec 1.37.0.
+- Updated to Rubocop Rake 0.5.0.
+- Updated to Ruby 2.6.5.
+- Updated to Ruby 2.7.0.
+- Updated to SimpleCov 0.17.0.
+- Updated to SimpleCov 0.18.0
+- Removed unnecessary Bash script documentation.
+
 # 0.6.3 (2019-09-01)
 
 - Updated to Rubocop 0.73.0.
