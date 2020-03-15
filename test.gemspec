@@ -3,8 +3,8 @@
 require_relative "lib/test/identity"
 
 Gem::Specification.new do |spec|
-  spec.name = Test::Identity.name
-  spec.version = Test::Identity.version
+  spec.name = Test::Identity::NAME
+  spec.version = Test::Identity::VERSION
   spec.platform = Gem::Platform::RUBY
   spec.authors = ["Brooke Kuhlmann"]
   spec.email = ["brooke@alchemists.io"]

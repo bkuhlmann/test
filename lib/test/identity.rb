@@ -3,20 +3,9 @@
 module Test
   # Gem identity information.
   module Identity
-    def self.name
-      "test"
-    end
-
-    def self.label
-      "Test"
-    end
-
-    def self.version
-      "0.6.3"
-    end
-
-    def self.version_label
-      "#{label} #{version}"
-    end
+    NAME = "test"
+    LABEL = "Test"
+    VERSION = "0.6.3"
+    VERSION_LABEL = "#{LABEL} #{VERSION}"
   end
 end
