@@ -1,0 +1,70 @@
+:toc: macro
+:toclevels: 5
+:figure-caption!:
+
+= Test
+
+This project’s sole purpose is to provide a remote Git repository that can be used for testing gems
+like the following:
+
+* link:https://www.alchemists.io/projects/milestoner[Milestoner]
+* link:https://www.alchemists.io/projects/gemsmith[Gemsmith]
+
+Other gems, Ruby projects, etc. might leverage this project in the future too. Any activity on this
+project will mostly be the result of automated testing. In other words, not much to see here.
+
+toc::[]
+
+== Features
+
+* Provides a remote Git repository that can be used in testing other gems/projects.
+
+== Requirements
+
+. https://www.ruby-lang.org[Ruby 2.7.x]
+
+== Setup
+
+None.
+
+== Usage
+
+None.
+
+== Tests
+
+To test, run:
+
+[source,bash]
+----
+bundle exec rake
+----
+
+== Versioning
+
+Read link:https://semver.org[Semantic Versioning] for details. Briefly, it means:
+
+* Major (X.y.z) - Incremented for any backwards incompatible public API changes.
+* Minor (x.Y.z) - Incremented for new, backwards compatible, public API enhancements/fixes.
+* Patch (x.y.Z) - Incremented for small, backwards compatible, bug fixes.
+
+== Code of Conduct
+
+Please note that this project is released with a link:CODE_OF_CONDUCT.adoc[CODE OF CONDUCT]. By
+participating in this project you agree to abide by its terms.
+
+== Contributions
+
+Read link:CONTRIBUTING.adoc[CONTRIBUTING] for details.
+
+== License
+
+Read link:LICENSE.adoc[LICENSE] for details.
+
+== History
+
+Read link:CHANGES.adoc[CHANGES] for details.
+
+== Credits
+
+Engineered by link:https://www.alchemists.io/team/brooke_kuhlmann.html[Brooke Kuhlmann].
