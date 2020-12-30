@@ -5,7 +5,7 @@ module Test
   module Identity
     NAME = "test"
     LABEL = "Test"
-    VERSION = "0.9.0"
+    VERSION = "0.10.0"
     VERSION_LABEL = "#{LABEL} #{VERSION}"
   end
 end
